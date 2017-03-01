@@ -18,7 +18,7 @@ The following is **optional** functionality:
 - [ ] User can visualize bathrooms on a map view
 - [ ] Users can edit bathroom
     - [ ] Users can upload a picture of the facilities
-    - [ ] Users can 
+    - [ ] Users can submit changes to bathroom features (rennovations, corrections)
 - [ ] User can leave comments about their bathroom experience
 - [ ] User can edit the range of their search
 - [ ] 
@@ -30,7 +30,7 @@ The following is **additional** functionality:
 
 UI Optionals:
 - [ ]
-- [ ] 
+
 
 ## Notes
 
