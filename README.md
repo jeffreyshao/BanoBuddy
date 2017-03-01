@@ -1,26 +1,36 @@
 # **BañoBuddy** - CodePath Final project
 
-**BañoBuddy** is...
+An application to give people crowd-sourced reviews of nearby bathrooms.
 
 ## User Stories
 
 The following is **required** functionality:
 
-- [ ] User can...
-- [ ] User can...
-- [ ] User can...
-- [ ] User can...
-- [ ] User can...
+- [ ] User can see bathrooms nearby
+- [ ] User can submit a bathroom
+    - [ ] User can rate a bathroom based on: overall, cleanliness, tp, traffic, sinks, soap, graffiti/ambiance, accessibility, etc...
+    - [ ] Users mark attributes: men/women/family/unisex, changing stations, auto-flush(fancy), auto-sinks, etc...
+- [ ] User can filter bathrooms based on attributes and rating
+- [ ] User can review existing bathrooms
 
 The following is **optional** functionality:
 
-- [ ] User can...
-- [ ] User can...
-- [ ] User can...
+- [ ] User can visualize bathrooms on a map view
+- [ ] Users can edit bathroom
+    - [ ] Users can upload a picture of the facilities
+    - [ ] Users can 
+- [ ] User can leave comments about their bathroom experience
+- [ ] User can edit the range of their search
+- [ ] 
 
 The following is **additional** functionality:
 
-- [ ] User can...
+- [ ] 
+- [ ] 
+
+UI Optionals:
+- [ ]
+- [ ] 
 
 ## Notes
 
